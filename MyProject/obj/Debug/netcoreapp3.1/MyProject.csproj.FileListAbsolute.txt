@@ -1,0 +1,11 @@
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.exe
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.deps.json
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.runtimeconfig.json
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.runtimeconfig.dev.json
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.dll
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.pdb
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.csprojAssemblyReference.cache
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.AssemblyInfoInputs.cache
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.AssemblyInfo.cs
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.dll
+C:\Users\jonathan.oliveira\Desktop\Jonathan\Study\List\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.pdb
